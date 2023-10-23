@@ -23,3 +23,10 @@
 - 此程式適用於那些記得 beanfun 帳號，但忘記手機號碼無法進行修改進階認證的玩家。
 
 注意：使用本程式需要擁有合法的 beanfun 帳號，並且僅供合法目的使用。
+
+### Build by your self
+- 如果對程式有疑慮請自行檢查程式碼，並自行打包
+- Python version : 3.8
+- 相依套件自行安裝
+- Build command :
+   - `python.exe ./cxf.py build`
