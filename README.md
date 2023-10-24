@@ -34,3 +34,9 @@
    - `python.exe ./cxf.py build`
 
 
+## 斗內作者
+- 如果有幫助到有閒錢餘力的話可以小力斗內～
+### Line Pay
+> 要用Line的掃描才可以
+
+![download](https://github.com/a71287300/bfPhoneScan/assets/39129730/43c07af8-b61f-48d9-91fd-3c4bbba578e2)
